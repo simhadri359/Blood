@@ -1,0 +1,5 @@
+{
+  "name": "VitalFlow - Blood Donation Network",
+  "description": "A comprehensive web application designed to connect blood donors, receivers, hospitals, and NGOs. It facilitates finding donors, managing blood requests, organizing donation events, and tracking donation history to streamline the life-saving process of blood donation.",
+  "requestFramePermissions": []
+}
